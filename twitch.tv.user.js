@@ -2,7 +2,7 @@
 // @name         TTV-points-clicker
 // @namespace    cloudbear/TTVPC
 // @version      0.1
-// @description  Periodically check for and click the channel points bonus box.
+// @description  Periodically checks for and click the channel points bonus box.
 // @author       cloudbear
 // @match        https://*.twitch.tv/*
 // @exclude      https://*.twitch.tv/videos/*
